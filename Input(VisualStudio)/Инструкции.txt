@@ -1,0 +1,2 @@
+Вътре в кода на Form1 и Form2, трябва да се промени Connection String-а. SqlConnection conn = new SqlConnection(@"вашият Connestion String");
+В App.config се прави същото на 9-ти и 12-ти ред.

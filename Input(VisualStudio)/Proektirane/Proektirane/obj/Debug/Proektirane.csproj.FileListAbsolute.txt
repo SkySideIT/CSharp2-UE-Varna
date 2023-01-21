@@ -1,0 +1,137 @@
+C:\Users\SkySide TV\Desktop\Proektirane\Proektirane\Proektirane\bin\Debug\Proektirane.exe.config
+C:\Users\SkySide TV\Desktop\Proektirane\Proektirane\Proektirane\bin\Debug\Proektirane.exe
+C:\Users\SkySide TV\Desktop\Proektirane\Proektirane\Proektirane\bin\Debug\Proektirane.pdb
+C:\Users\SkySide TV\Desktop\Proektirane\Proektirane\Proektirane\bin\Debug\MetroFramework.Design.dll
+C:\Users\SkySide TV\Desktop\Proektirane\Proektirane\Proektirane\bin\Debug\MetroFramework.dll
+C:\Users\SkySide TV\Desktop\Proektirane\Proektirane\Proektirane\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\SkySide TV\Desktop\Proektirane\Proektirane\Proektirane\obj\Debug\Proektirane.csprojAssemblyReference.cache
+C:\Users\SkySide TV\Desktop\Proektirane\Proektirane\Proektirane\obj\Debug\Proektirane.Form1.resources
+C:\Users\SkySide TV\Desktop\Proektirane\Proektirane\Proektirane\obj\Debug\Proektirane.Properties.Resources.resources
+C:\Users\SkySide TV\Desktop\Proektirane\Proektirane\Proektirane\obj\Debug\Proektirane.csproj.GenerateResource.cache
+C:\Users\SkySide TV\Desktop\Proektirane\Proektirane\Proektirane\obj\Debug\Proektirane.csproj.CoreCompileInputs.cache
+C:\Users\SkySide TV\Desktop\Proektirane\Proektirane\Proektirane\obj\Debug\Proektirane.csproj.CopyComplete
+C:\Users\SkySide TV\Desktop\Proektirane\Proektirane\Proektirane\obj\Debug\Proektirane.exe
+C:\Users\SkySide TV\Desktop\Proektirane\Proektirane\Proektirane\obj\Debug\Proektirane.pdb
+C:\Users\SkySide TV\Desktop\Proektirane\Proektirane\Proektirane\obj\Debug\Proektirane.Form2.resources
+C:\Users\SkySide TV\Desktop\Proektirane\Proektirane\Proektirane\bin\Debug\Newtonsoft.Json.dll
+C:\Users\SkySide TV\Desktop\Proektirane\Proektirane\Proektirane\bin\Debug\NuGet.Common.dll
+C:\Users\SkySide TV\Desktop\Proektirane\Proektirane\Proektirane\bin\Debug\NuGet.Configuration.dll
+C:\Users\SkySide TV\Desktop\Proektirane\Proektirane\Proektirane\bin\Debug\NuGet.Frameworks.dll
+C:\Users\SkySide TV\Desktop\Proektirane\Proektirane\Proektirane\bin\Debug\NuGet.Packaging.dll
+C:\Users\SkySide TV\Desktop\Proektirane\Proektirane\Proektirane\bin\Debug\NuGet.Versioning.dll
+C:\Users\SkySide TV\Desktop\Proektirane\Proektirane\Proektirane\bin\Debug\Newtonsoft.Json.xml
+C:\Users\SkySide TV\Desktop\Proektirane\Proektirane\Proektirane\bin\Debug\NuGet.Common.xml
+C:\Users\SkySide TV\Desktop\Proektirane\Proektirane\Proektirane\bin\Debug\NuGet.Configuration.xml
+C:\Users\SkySide TV\Desktop\Proektirane\Proektirane\Proektirane\bin\Debug\NuGet.Frameworks.xml
+C:\Users\SkySide TV\Desktop\Proektirane\Proektirane\Proektirane\bin\Debug\NuGet.Packaging.xml
+C:\Users\SkySide TV\Desktop\Proektirane\Proektirane\Proektirane\bin\Debug\NuGet.Versioning.xml
+C:\Users\SkySide TV\Desktop\Proektirane\Proektirane\Proektirane\obj\Debug\Proektirane.Form3.resources
+C:\Users\SkySide TV\Desktop\Proektirane\Proektirane\Proektirane\obj\Debug\Proektirane.Form4.resources
+C:\Users\SkySide TV\Desktop\Proektirane\Proektirane\Proektirane\obj\Debug\Proektirane.Form5.resources
+C:\Users\SkySide TV\Desktop\Proektirane\Proektirane\Proektirane\obj\Debug\Proektirane.Form6.resources
+C:\Users\SkySide TV\Desktop\Proektirane\Proektirane\bin\Debug\Proektirane.exe.config
+C:\Users\SkySide TV\Desktop\Proektirane\Proektirane\bin\Debug\Proektirane.exe
+C:\Users\SkySide TV\Desktop\Proektirane\Proektirane\bin\Debug\Proektirane.pdb
+C:\Users\SkySide TV\Desktop\Proektirane\Proektirane\bin\Debug\Newtonsoft.Json.dll
+C:\Users\SkySide TV\Desktop\Proektirane\Proektirane\bin\Debug\NuGet.Common.dll
+C:\Users\SkySide TV\Desktop\Proektirane\Proektirane\bin\Debug\NuGet.Configuration.dll
+C:\Users\SkySide TV\Desktop\Proektirane\Proektirane\bin\Debug\NuGet.Frameworks.dll
+C:\Users\SkySide TV\Desktop\Proektirane\Proektirane\bin\Debug\NuGet.Packaging.dll
+C:\Users\SkySide TV\Desktop\Proektirane\Proektirane\bin\Debug\NuGet.Versioning.dll
+C:\Users\SkySide TV\Desktop\Proektirane\Proektirane\bin\Debug\Newtonsoft.Json.xml
+C:\Users\SkySide TV\Desktop\Proektirane\Proektirane\bin\Debug\NuGet.Common.xml
+C:\Users\SkySide TV\Desktop\Proektirane\Proektirane\bin\Debug\NuGet.Configuration.xml
+C:\Users\SkySide TV\Desktop\Proektirane\Proektirane\bin\Debug\NuGet.Frameworks.xml
+C:\Users\SkySide TV\Desktop\Proektirane\Proektirane\bin\Debug\NuGet.Packaging.xml
+C:\Users\SkySide TV\Desktop\Proektirane\Proektirane\bin\Debug\NuGet.Versioning.xml
+C:\Users\SkySide TV\Desktop\Proektirane\Proektirane\obj\Debug\Proektirane.csprojAssemblyReference.cache
+C:\Users\SkySide TV\Desktop\Proektirane\Proektirane\obj\Debug\Proektirane.Form1.resources
+C:\Users\SkySide TV\Desktop\Proektirane\Proektirane\obj\Debug\Proektirane.Form2.resources
+C:\Users\SkySide TV\Desktop\Proektirane\Proektirane\obj\Debug\Proektirane.Form3.resources
+C:\Users\SkySide TV\Desktop\Proektirane\Proektirane\obj\Debug\Proektirane.Form4.resources
+C:\Users\SkySide TV\Desktop\Proektirane\Proektirane\obj\Debug\Proektirane.Form5.resources
+C:\Users\SkySide TV\Desktop\Proektirane\Proektirane\obj\Debug\Proektirane.Properties.Resources.resources
+C:\Users\SkySide TV\Desktop\Proektirane\Proektirane\obj\Debug\Proektirane.csproj.GenerateResource.cache
+C:\Users\SkySide TV\Desktop\Proektirane\Proektirane\obj\Debug\Proektirane.csproj.CoreCompileInputs.cache
+C:\Users\SkySide TV\Desktop\Proektirane\Proektirane\obj\Debug\Proektirane.csproj.CopyComplete
+C:\Users\SkySide TV\Desktop\Proektirane\Proektirane\obj\Debug\Proektirane.exe
+C:\Users\SkySide TV\Desktop\Proektirane\Proektirane\obj\Debug\Proektirane.pdb
+C:\Users\SkySide TV\Desktop\Proektirane\Proektirane\obj\Debug\Proektirane.Form6.resources
+C:\Users\SkySide TV\Desktop\Proektirane\Proektirane\obj\Debug\Proektirane.Form7.resources
+C:\Users\SkySide TV\Desktop\Proektirane\Proektirane\obj\Debug\Proektirane.Form8.resources
+C:\Users\SkySide TV\Desktop\Proektirane\Proektirane\obj\Debug\Proektirane.Form9.resources
+C:\Users\SkySide TV\Desktop\Proektirane\Proektirane\obj\Debug\Proektirane.Form10.resources
+C:\Users\SkySide TV\Desktop\Proektirane\Proektirane\bin\Debug\MetroFramework.Design.dll
+C:\Users\SkySide TV\Desktop\Proektirane\Proektirane\bin\Debug\MetroFramework.dll
+C:\Users\SkySide TV\Desktop\Proektirane\Proektirane\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\user\Desktop\VideoIgri\Вход (Visual Studio)\Proektirane\Proektirane\bin\Debug\Proektirane.exe.config
+C:\Users\user\Desktop\VideoIgri\Вход (Visual Studio)\Proektirane\Proektirane\bin\Debug\Proektirane.exe
+C:\Users\user\Desktop\VideoIgri\Вход (Visual Studio)\Proektirane\Proektirane\bin\Debug\Proektirane.pdb
+C:\Users\user\Desktop\VideoIgri\Вход (Visual Studio)\Proektirane\Proektirane\bin\Debug\MetroFramework.Design.dll
+C:\Users\user\Desktop\VideoIgri\Вход (Visual Studio)\Proektirane\Proektirane\bin\Debug\MetroFramework.dll
+C:\Users\user\Desktop\VideoIgri\Вход (Visual Studio)\Proektirane\Proektirane\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\user\Desktop\VideoIgri\Вход (Visual Studio)\Proektirane\Proektirane\bin\Debug\Newtonsoft.Json.dll
+C:\Users\user\Desktop\VideoIgri\Вход (Visual Studio)\Proektirane\Proektirane\bin\Debug\NuGet.Common.dll
+C:\Users\user\Desktop\VideoIgri\Вход (Visual Studio)\Proektirane\Proektirane\bin\Debug\NuGet.Configuration.dll
+C:\Users\user\Desktop\VideoIgri\Вход (Visual Studio)\Proektirane\Proektirane\bin\Debug\NuGet.Frameworks.dll
+C:\Users\user\Desktop\VideoIgri\Вход (Visual Studio)\Proektirane\Proektirane\bin\Debug\NuGet.Packaging.dll
+C:\Users\user\Desktop\VideoIgri\Вход (Visual Studio)\Proektirane\Proektirane\bin\Debug\NuGet.Versioning.dll
+C:\Users\user\Desktop\VideoIgri\Вход (Visual Studio)\Proektirane\Proektirane\bin\Debug\Newtonsoft.Json.xml
+C:\Users\user\Desktop\VideoIgri\Вход (Visual Studio)\Proektirane\Proektirane\bin\Debug\NuGet.Common.xml
+C:\Users\user\Desktop\VideoIgri\Вход (Visual Studio)\Proektirane\Proektirane\bin\Debug\NuGet.Configuration.xml
+C:\Users\user\Desktop\VideoIgri\Вход (Visual Studio)\Proektirane\Proektirane\bin\Debug\NuGet.Frameworks.xml
+C:\Users\user\Desktop\VideoIgri\Вход (Visual Studio)\Proektirane\Proektirane\bin\Debug\NuGet.Packaging.xml
+C:\Users\user\Desktop\VideoIgri\Вход (Visual Studio)\Proektirane\Proektirane\bin\Debug\NuGet.Versioning.xml
+C:\Users\user\Desktop\VideoIgri\Вход (Visual Studio)\Proektirane\Proektirane\obj\Debug\Proektirane.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\VideoIgri\Вход (Visual Studio)\Proektirane\Proektirane\obj\Debug\Proektirane.csproj.SuggestedBindingRedirects.cache
+C:\Users\user\Desktop\VideoIgri\Вход (Visual Studio)\Proektirane\Proektirane\obj\Debug\Proektirane.Form1.resources
+C:\Users\user\Desktop\VideoIgri\Вход (Visual Studio)\Proektirane\Proektirane\obj\Debug\Proektirane.Form10.resources
+C:\Users\user\Desktop\VideoIgri\Вход (Visual Studio)\Proektirane\Proektirane\obj\Debug\Proektirane.Form2.resources
+C:\Users\user\Desktop\VideoIgri\Вход (Visual Studio)\Proektirane\Proektirane\obj\Debug\Proektirane.Form3.resources
+C:\Users\user\Desktop\VideoIgri\Вход (Visual Studio)\Proektirane\Proektirane\obj\Debug\Proektirane.Form4.resources
+C:\Users\user\Desktop\VideoIgri\Вход (Visual Studio)\Proektirane\Proektirane\obj\Debug\Proektirane.Form5.resources
+C:\Users\user\Desktop\VideoIgri\Вход (Visual Studio)\Proektirane\Proektirane\obj\Debug\Proektirane.Form6.resources
+C:\Users\user\Desktop\VideoIgri\Вход (Visual Studio)\Proektirane\Proektirane\obj\Debug\Proektirane.Form7.resources
+C:\Users\user\Desktop\VideoIgri\Вход (Visual Studio)\Proektirane\Proektirane\obj\Debug\Proektirane.Form8.resources
+C:\Users\user\Desktop\VideoIgri\Вход (Visual Studio)\Proektirane\Proektirane\obj\Debug\Proektirane.Form9.resources
+C:\Users\user\Desktop\VideoIgri\Вход (Visual Studio)\Proektirane\Proektirane\obj\Debug\Proektirane.Properties.Resources.resources
+C:\Users\user\Desktop\VideoIgri\Вход (Visual Studio)\Proektirane\Proektirane\obj\Debug\Proektirane.csproj.GenerateResource.cache
+C:\Users\user\Desktop\VideoIgri\Вход (Visual Studio)\Proektirane\Proektirane\obj\Debug\Proektirane.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\VideoIgri\Вход (Visual Studio)\Proektirane\Proektirane\obj\Debug\Proektirane.csproj.CopyComplete
+C:\Users\user\Desktop\VideoIgri\Вход (Visual Studio)\Proektirane\Proektirane\obj\Debug\Proektirane.exe
+C:\Users\user\Desktop\VideoIgri\Вход (Visual Studio)\Proektirane\Proektirane\obj\Debug\Proektirane.pdb
+C:\Users\SkySide TV\Desktop\УНИ\3 курс\Проектиране\VideoIgri\Вход (Visual Studio)\Proektirane\Proektirane\bin\Debug\Proektirane.exe.config
+C:\Users\SkySide TV\Desktop\УНИ\3 курс\Проектиране\VideoIgri\Вход (Visual Studio)\Proektirane\Proektirane\bin\Debug\Proektirane.exe
+C:\Users\SkySide TV\Desktop\УНИ\3 курс\Проектиране\VideoIgri\Вход (Visual Studio)\Proektirane\Proektirane\bin\Debug\Proektirane.pdb
+C:\Users\SkySide TV\Desktop\УНИ\3 курс\Проектиране\VideoIgri\Вход (Visual Studio)\Proektirane\Proektirane\bin\Debug\MetroFramework.Design.dll
+C:\Users\SkySide TV\Desktop\УНИ\3 курс\Проектиране\VideoIgri\Вход (Visual Studio)\Proektirane\Proektirane\bin\Debug\MetroFramework.dll
+C:\Users\SkySide TV\Desktop\УНИ\3 курс\Проектиране\VideoIgri\Вход (Visual Studio)\Proektirane\Proektirane\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\SkySide TV\Desktop\УНИ\3 курс\Проектиране\VideoIgri\Вход (Visual Studio)\Proektirane\Proektirane\bin\Debug\Newtonsoft.Json.dll
+C:\Users\SkySide TV\Desktop\УНИ\3 курс\Проектиране\VideoIgri\Вход (Visual Studio)\Proektirane\Proektirane\bin\Debug\NuGet.Common.dll
+C:\Users\SkySide TV\Desktop\УНИ\3 курс\Проектиране\VideoIgri\Вход (Visual Studio)\Proektirane\Proektirane\bin\Debug\NuGet.Configuration.dll
+C:\Users\SkySide TV\Desktop\УНИ\3 курс\Проектиране\VideoIgri\Вход (Visual Studio)\Proektirane\Proektirane\bin\Debug\NuGet.Frameworks.dll
+C:\Users\SkySide TV\Desktop\УНИ\3 курс\Проектиране\VideoIgri\Вход (Visual Studio)\Proektirane\Proektirane\bin\Debug\NuGet.Packaging.dll
+C:\Users\SkySide TV\Desktop\УНИ\3 курс\Проектиране\VideoIgri\Вход (Visual Studio)\Proektirane\Proektirane\bin\Debug\NuGet.Versioning.dll
+C:\Users\SkySide TV\Desktop\УНИ\3 курс\Проектиране\VideoIgri\Вход (Visual Studio)\Proektirane\Proektirane\bin\Debug\Newtonsoft.Json.xml
+C:\Users\SkySide TV\Desktop\УНИ\3 курс\Проектиране\VideoIgri\Вход (Visual Studio)\Proektirane\Proektirane\bin\Debug\NuGet.Common.xml
+C:\Users\SkySide TV\Desktop\УНИ\3 курс\Проектиране\VideoIgri\Вход (Visual Studio)\Proektirane\Proektirane\bin\Debug\NuGet.Configuration.xml
+C:\Users\SkySide TV\Desktop\УНИ\3 курс\Проектиране\VideoIgri\Вход (Visual Studio)\Proektirane\Proektirane\bin\Debug\NuGet.Frameworks.xml
+C:\Users\SkySide TV\Desktop\УНИ\3 курс\Проектиране\VideoIgri\Вход (Visual Studio)\Proektirane\Proektirane\bin\Debug\NuGet.Packaging.xml
+C:\Users\SkySide TV\Desktop\УНИ\3 курс\Проектиране\VideoIgri\Вход (Visual Studio)\Proektirane\Proektirane\bin\Debug\NuGet.Versioning.xml
+C:\Users\SkySide TV\Desktop\УНИ\3 курс\Проектиране\VideoIgri\Вход (Visual Studio)\Proektirane\Proektirane\obj\Debug\Proektirane.csprojAssemblyReference.cache
+C:\Users\SkySide TV\Desktop\УНИ\3 курс\Проектиране\VideoIgri\Вход (Visual Studio)\Proektirane\Proektirane\obj\Debug\Proektirane.Form1.resources
+C:\Users\SkySide TV\Desktop\УНИ\3 курс\Проектиране\VideoIgri\Вход (Visual Studio)\Proektirane\Proektirane\obj\Debug\Proektirane.Form10.resources
+C:\Users\SkySide TV\Desktop\УНИ\3 курс\Проектиране\VideoIgri\Вход (Visual Studio)\Proektirane\Proektirane\obj\Debug\Proektirane.Form2.resources
+C:\Users\SkySide TV\Desktop\УНИ\3 курс\Проектиране\VideoIgri\Вход (Visual Studio)\Proektirane\Proektirane\obj\Debug\Proektirane.Form3.resources
+C:\Users\SkySide TV\Desktop\УНИ\3 курс\Проектиране\VideoIgri\Вход (Visual Studio)\Proektirane\Proektirane\obj\Debug\Proektirane.Form4.resources
+C:\Users\SkySide TV\Desktop\УНИ\3 курс\Проектиране\VideoIgri\Вход (Visual Studio)\Proektirane\Proektirane\obj\Debug\Proektirane.Form5.resources
+C:\Users\SkySide TV\Desktop\УНИ\3 курс\Проектиране\VideoIgri\Вход (Visual Studio)\Proektirane\Proektirane\obj\Debug\Proektirane.Form6.resources
+C:\Users\SkySide TV\Desktop\УНИ\3 курс\Проектиране\VideoIgri\Вход (Visual Studio)\Proektirane\Proektirane\obj\Debug\Proektirane.Form7.resources
+C:\Users\SkySide TV\Desktop\УНИ\3 курс\Проектиране\VideoIgri\Вход (Visual Studio)\Proektirane\Proektirane\obj\Debug\Proektirane.Form8.resources
+C:\Users\SkySide TV\Desktop\УНИ\3 курс\Проектиране\VideoIgri\Вход (Visual Studio)\Proektirane\Proektirane\obj\Debug\Proektirane.Form9.resources
+C:\Users\SkySide TV\Desktop\УНИ\3 курс\Проектиране\VideoIgri\Вход (Visual Studio)\Proektirane\Proektirane\obj\Debug\Proektirane.Properties.Resources.resources
+C:\Users\SkySide TV\Desktop\УНИ\3 курс\Проектиране\VideoIgri\Вход (Visual Studio)\Proektirane\Proektirane\obj\Debug\Proektirane.csproj.GenerateResource.cache
+C:\Users\SkySide TV\Desktop\УНИ\3 курс\Проектиране\VideoIgri\Вход (Visual Studio)\Proektirane\Proektirane\obj\Debug\Proektirane.csproj.CoreCompileInputs.cache
+C:\Users\SkySide TV\Desktop\УНИ\3 курс\Проектиране\VideoIgri\Вход (Visual Studio)\Proektirane\Proektirane\obj\Debug\Proektirane.csproj.CopyComplete
+C:\Users\SkySide TV\Desktop\УНИ\3 курс\Проектиране\VideoIgri\Вход (Visual Studio)\Proektirane\Proektirane\obj\Debug\Proektirane.exe
+C:\Users\SkySide TV\Desktop\УНИ\3 курс\Проектиране\VideoIgri\Вход (Visual Studio)\Proektirane\Proektirane\obj\Debug\Proektirane.pdb
